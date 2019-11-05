@@ -1,0 +1,45 @@
+{
+    "_id": "5dc1102477ea82759662e22e",
+    "index": 1,
+    "guid": "a365b2e0-2066-4870-a0b8-620f4e1a5470",
+    "isActive": false,
+    "balance": "$1,937.10",
+    "picture": "http://placehold.it/32x32",
+    "age": 22,
+    "eyeColor": "brown",
+    "name": "Fay Woodard",
+    "gender": "female",
+    "company": "CABLAM",
+    "email": "faywoodard@cablam.com",
+    "phone": "+1 (887) 579-2692",
+    "address": "601 Reed Street, Fulford, Federated States Of Micronesia, 3909",
+    "about": "Occaecat nisi ea esse Lorem. Velit in laborum id adipisicing et dolor cupidatat esse. Exercitation magna aliquip Lorem quis aute qui ea consequat. Qui nulla consequat tempor dolore. Ipsum cupidatat enim consectetur dolor.\r\n",
+    "registered": "2018-02-13T11:14:09 +07:00",
+    "latitude": 23.358632,
+    "longitude": -113.573905,
+    "tags": [
+        "sint",
+        "reprehenderit",
+        "consectetur",
+        "qui",
+        "ullamco",
+        "consequat",
+        "est"
+    ],
+    "friends": [
+        {
+            "id": 0,
+            "name": "Hester Douglas"
+        },
+        {
+            "id": 1,
+            "name": "Geneva Hendricks"
+        },
+        {
+            "id": 2,
+            "name": "Josephine Andrews"
+        }
+    ],
+    "greeting": "Hello, Fay Woodard! You have 10 unread messages.",
+    "favoriteFruit": "apple"
+}

@@ -1,0 +1,45 @@
+{
+    "_id": "5dc110247269a483e3c9c583",
+    "index": 3,
+    "guid": "e0619c19-243a-4b1c-bb58-367b8d5d11e0",
+    "isActive": true,
+    "balance": "$1,203.54",
+    "picture": "http://placehold.it/32x32",
+    "age": 24,
+    "eyeColor": "green",
+    "name": "Jeannine Willis",
+    "gender": "female",
+    "company": "SPLINX",
+    "email": "jeanninewillis@splinx.com",
+    "phone": "+1 (856) 559-2645",
+    "address": "598 Loring Avenue, Sunriver, Pennsylvania, 1051",
+    "about": "Fugiat anim ad consectetur magna culpa veniam culpa voluptate reprehenderit cupidatat non voluptate veniam ea. Laboris voluptate ipsum sint id deserunt officia elit. Enim voluptate voluptate ut ex non proident velit nostrud pariatur. Deserunt aliqua tempor velit cupidatat fugiat nostrud magna eiusmod sit ullamco aliqua. Irure non eu excepteur laborum ipsum eu excepteur laboris. Excepteur eu officia commodo tempor ut id irure reprehenderit Lorem.\r\n",
+    "registered": "2016-08-09T06:01:32 +06:00",
+    "latitude": 20.427198,
+    "longitude": -14.776801,
+    "tags": [
+        "laborum",
+        "eiusmod",
+        "sit",
+        "consequat",
+        "sint",
+        "laboris",
+        "dolore"
+    ],
+    "friends": [
+        {
+            "id": 0,
+            "name": "Waller Nichols"
+        },
+        {
+            "id": 1,
+            "name": "Goodman Beasley"
+        },
+        {
+            "id": 2,
+            "name": "Garner Hammond"
+        }
+    ],
+    "greeting": "Hello, Jeannine Willis! You have 3 unread messages.",
+    "favoriteFruit": "banana"
+}

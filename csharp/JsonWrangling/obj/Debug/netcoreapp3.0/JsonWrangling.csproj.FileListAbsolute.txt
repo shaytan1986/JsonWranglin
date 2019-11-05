@@ -1,0 +1,13 @@
+C:\Users\tetro\OneDrive\Documents\Projects\JsonWranglin\csharp\JsonWrangling\bin\Debug\netcoreapp3.0\JsonWrangling.exe
+C:\Users\tetro\OneDrive\Documents\Projects\JsonWranglin\csharp\JsonWrangling\obj\Debug\netcoreapp3.0\JsonWrangling.csprojAssemblyReference.cache
+C:\Users\tetro\OneDrive\Documents\Projects\JsonWranglin\csharp\JsonWrangling\obj\Debug\netcoreapp3.0\JsonWrangling.AssemblyInfoInputs.cache
+C:\Users\tetro\OneDrive\Documents\Projects\JsonWranglin\csharp\JsonWrangling\obj\Debug\netcoreapp3.0\JsonWrangling.AssemblyInfo.cs
+C:\Users\tetro\OneDrive\Documents\Projects\JsonWranglin\csharp\JsonWrangling\bin\Debug\netcoreapp3.0\JsonWrangling.deps.json
+C:\Users\tetro\OneDrive\Documents\Projects\JsonWranglin\csharp\JsonWrangling\bin\Debug\netcoreapp3.0\JsonWrangling.runtimeconfig.json
+C:\Users\tetro\OneDrive\Documents\Projects\JsonWranglin\csharp\JsonWrangling\bin\Debug\netcoreapp3.0\JsonWrangling.runtimeconfig.dev.json
+C:\Users\tetro\OneDrive\Documents\Projects\JsonWranglin\csharp\JsonWrangling\bin\Debug\netcoreapp3.0\JsonWrangling.dll
+C:\Users\tetro\OneDrive\Documents\Projects\JsonWranglin\csharp\JsonWrangling\bin\Debug\netcoreapp3.0\JsonWrangling.pdb
+C:\Users\tetro\OneDrive\Documents\Projects\JsonWranglin\csharp\JsonWrangling\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\tetro\OneDrive\Documents\Projects\JsonWranglin\csharp\JsonWrangling\obj\Debug\netcoreapp3.0\JsonWrangling.csproj.CopyComplete
+C:\Users\tetro\OneDrive\Documents\Projects\JsonWranglin\csharp\JsonWrangling\obj\Debug\netcoreapp3.0\JsonWrangling.dll
+C:\Users\tetro\OneDrive\Documents\Projects\JsonWranglin\csharp\JsonWrangling\obj\Debug\netcoreapp3.0\JsonWrangling.pdb
