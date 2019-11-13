@@ -83,6 +83,10 @@ namespace JsonWrangling
             }
         }
 
+        private static JsonReader GetJsonFileReader(string path)
+        {
+            return new JsonT
+        }
         private static JsonReader GetJsonResponseReader(int batchSize = 1)
         {
             WebRequest req = WebRequest.Create($"http://localhost:3000/?{batchSize}");

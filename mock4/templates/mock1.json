@@ -1,19 +1,24 @@
 {
-    "_id": "5dc110246aaa88d9335d5433",
-    "friends": [
-        {
-            "id": 0,
-            "name": "Leon Hartman"
-        },
-        {
-            "id": 1,
-            "name": "Mitchell Garrett"
-        },
-        {
-            "id": 2,
-            "name": "May Mcclure"
-        }
-    ],
-    "greeting": "Hello, Jeanine Dotson! You have 7 unread messages.",
-    "favoriteFruit": "banana"
+    "key": {
+        "_id": "5dc110246aaa88d9335d5433",
+        "type": "shrimpy"
+    },
+    "value": {
+        "shrimp": [
+            {
+                "id": 0,
+                "name": "Leon Hartman"
+            },
+            {
+                "id": 1,
+                "name": "Mitchell Garrett"
+            },
+            {
+                "id": 2,
+                "name": "May Mcclure"
+            }
+        ],
+        "greeting": "Hello, Jeanine Dotson! You have 7 unread messages.",
+        "favoriteFruit": "banana"
+    }
 }

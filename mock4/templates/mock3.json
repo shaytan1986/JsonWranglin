@@ -1,45 +1,50 @@
 {
-    "_id": "5dc11024c8e8abd8302821c8",
-    "index": 2,
-    "guid": "3bc18cab-3759-41de-9b9b-e39f9ae4bcaa",
-    "isActive": true,
-    "balance": "$3,540.29",
-    "picture": "http://placehold.it/32x32",
-    "age": 34,
-    "eyeColor": "blue",
-    "name": "Berg Nguyen",
-    "gender": "male",
-    "company": "BALOOBA",
-    "email": "bergnguyen@balooba.com",
-    "phone": "+1 (833) 499-2305",
-    "address": "585 Elm Avenue, Leland, Maine, 4886",
-    "about": "Irure consectetur anim irure ea veniam reprehenderit incididunt aliquip laborum adipisicing id. Eu ex officia laboris culpa cillum eiusmod in deserunt quis consequat ea deserunt magna. Id cillum consectetur amet aliquip ipsum nostrud aliquip sit ad. Est qui tempor in labore et Lorem. Sunt velit ut Lorem ipsum.\r\n",
-    "registered": "2014-05-19T02:42:02 +06:00",
-    "latitude": 22.312396,
-    "longitude": 21.35034,
-    "tags": [
-        "nulla",
-        "cupidatat",
-        "laborum",
-        "sint",
-        "nostrud",
-        "enim",
-        "nisi"
-    ],
-    "friends": [
-        {
-            "id": 0,
-            "name": "Ballard Hopper"
-        },
-        {
-            "id": 1,
-            "name": "Terri Dorsey"
-        },
-        {
-            "id": 2,
-            "name": "Avila Jacobs"
-        }
-    ],
-    "greeting": "Hello, Berg Nguyen! You have 6 unread messages.",
-    "favoriteFruit": "apple"
+    "key": {
+        "_id": "5dc11024c8e8abd8302821c8",
+        "type": "hobo"
+    },
+    "value": {
+        "index": 2,
+        "guid": "3bc18cab-3759-41de-9b9b-e39f9ae4bcaa",
+        "isActive": true,
+        "balance": "$3,540.29",
+        "picture": "http://placehold.it/32x32",
+        "age": 34,
+        "eyeColor": "blue",
+        "name": "Berg Nguyen",
+        "gender": "male",
+        "company": "BALOOBA",
+        "email": "bergnguyen@balooba.com",
+        "phone": "+1 (833) 499-2305",
+        "address": "585 Elm Avenue, Leland, Maine, 4886",
+        "about": "Irure consectetur anim irure ea veniam reprehenderit incididunt aliquip laborum adipisicing id. Eu ex officia laboris culpa cillum eiusmod in deserunt quis consequat ea deserunt magna. Id cillum consectetur amet aliquip ipsum nostrud aliquip sit ad. Est qui tempor in labore et Lorem. Sunt velit ut Lorem ipsum.\r\n",
+        "registered": "2014-05-19T02:42:02 +06:00",
+        "latitude": 22.312396,
+        "longitude": 21.35034,
+        "tags": [
+            "nulla",
+            "cupidatat",
+            "laborum",
+            "sint",
+            "nostrud",
+            "enim",
+            "nisi"
+        ],
+        "hob": [
+            {
+                "id": 0,
+                "name": "Ballard Hopper"
+            },
+            {
+                "id": 1,
+                "name": "Terri Dorsey"
+            },
+            {
+                "id": 2,
+                "name": "Avila Jacobs"
+            }
+        ],
+        "greeting": "Hello, Berg Nguyen! You have 6 unread messages.",
+        "favoriteFruit": "apple"
+    }
 }

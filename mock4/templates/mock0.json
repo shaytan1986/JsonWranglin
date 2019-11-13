@@ -1,0 +1,50 @@
+{
+    "key": {
+        "_id": "5dc110244851974853908b8f",
+        "type": "basic"
+    },
+    "value": {
+        "index": 4,
+        "guid": "329dd4c8-3546-4831-b66a-41bd65153c32",
+        "isActive": true,
+        "balance": "$1,493.67",
+        "picture": "http://placehold.it/32x32",
+        "age": 27,
+        "eyeColor": "green",
+        "name": "Mae Bradley",
+        "gender": "female",
+        "company": "GEEKKO",
+        "email": "maebradley@geekko.com",
+        "phone": "+1 (935) 443-3739",
+        "address": "403 Sedgwick Place, Ezel, Maryland, 9461",
+        "about": "Reprehenderit dolore dolore nulla qui. Aliqua laborum tempor ipsum in cillum laborum tempor voluptate commodo proident ipsum voluptate. Ea magna duis in officia id cupidatat sint qui nostrud anim exercitation pariatur ad. Id Lorem magna magna incididunt incididunt laborum minim exercitation ipsum. Eiusmod cupidatat sint nulla amet labore ex aute aute ullamco tempor sint elit. Qui pariatur irure eiusmod id ea eu laborum amet eu in ipsum.\r\n",
+        "registered": "2016-05-10T10:22:18 +06:00",
+        "latitude": 57.325249,
+        "longitude": 164.299185,
+        "tags": [
+            "quis",
+            "nulla",
+            "nisi",
+            "do",
+            "ad",
+            "adipisicing",
+            "esse"
+        ],
+        "friends": [
+            {
+                "id": 0,
+                "name": "Sharon Shaw"
+            },
+            {
+                "id": 1,
+                "name": "Lilian Sargent"
+            },
+            {
+                "id": 2,
+                "name": "Shannon Fields"
+            }
+        ],
+        "greeting": "Hello, Mae Bradley! You have 3 unread messages.",
+        "favoriteFruit": "apple"
+    }
+}
